@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652746133 source:e:\abdelrahman\loginsystem\loginsystemapp.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	<regex>
+	"LoginSystemFunctionsheaders.h"
+
+1652746103 e:\abdelrahman\loginsystem\loginsystemfunctionsheaders.h
+
